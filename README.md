@@ -1,7 +1,7 @@
 ## Hey there, I'm Gerald Nathanael! 👋
 ![Header](https://github.com/geraldnael/geraldnael/blob/main/assets/header.png)
 
-I'm a Front-End Developer and AI Enthusiast from Indonesia. I love building smart, scalable, and impactful web applications. With a strong foundation in software architecture and a deep interest in machine learning and web development, I enjoy solving real-world problems with code.
+I'm a Full-Stack Developer and AI Enthusiast from Indonesia. I love building smart, scalable, and impactful web applications. With a strong foundation in software architecture and a deep interest in machine learning and computer vision, I enjoy solving real-world problems with code.
 
 - 🎓 Final year **Informatics Engineering** student at Institut Teknologi Del
 - 📚 Currently researching **Multi-scale Object Detection with Faster R-CNN & FPN**
@@ -25,30 +25,37 @@ I'm a Front-End Developer and AI Enthusiast from Indonesia. I love building smar
 
 ### 🧰 Tech Stack
 
-#### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+**Languages**
+<p>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-#### 🧠 AI/ML
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+**Frontend**
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
-#### 🧑‍🔧 Backend
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
+**Backend & Tools**
+<p>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-#### 🛠️ Tools & Other
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma)
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+**Machine Learning**
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
 
 ---
 
