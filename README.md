@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Gerald Nathanael!
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/2fac66d3-e0b4-4362-a52a-d4219fcd36c1" />## 👋 Hi, I'm Gerald Nathanael!
 
 🎓 Final year Informatics Engineering student  
 💡 Passionate in Front-end Development, AI, and UX Design  
@@ -15,8 +15,8 @@
 
 ### 📌 Highlight Projects
 
-- [📸 Photo Album Website with Firebase](https://discuss-forum-nu.vercel.app)  
-  A real-time photo sharing platform using Firebase & JavaScript.
+- [🗨️ Discuss Forum with API](https://discuss-forum-nu.vercel.app)  
+  An interactive API-based forum with separate frontend and backend, designed for scalable and structured communication.
 
-- [📱 Gamified Mobile E-learning](https://github.com/geraldnathanael/elearning-app)  
-  Built with Flutter, Node.js, MySQL, and Admin Dashboard with React.js.
+- [📝 Notes App with API](https://notes-api-dusky-delta.vercel.app)  
+  A secure and efficient notes app with decoupled frontend and backend via API.
