@@ -15,7 +15,7 @@
 
 ### 📌 Highlight Projects
 
-- [📸 Photo Album Website with Firebase](https://github.com/geraldnael/Discuss-Forum.git)  
+- [📸 Photo Album Website with Firebase](https://discuss-forum-nu.vercel.app)  
   A real-time photo sharing platform using Firebase & JavaScript.
 
 - [📱 Gamified Mobile E-learning](https://github.com/geraldnathanael/elearning-app)  
