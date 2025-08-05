@@ -10,3 +10,5 @@
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
 ![Firebase](https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase)
+
+![Gerald's GitHub stats](https://github-readme-stats.vercel.app/api?username=geraldnathanael&show_icons=true&theme=radical)
