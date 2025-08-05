@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/2fac66d3-e0b4-4362-a52a-d4219fcd36c1" />## 👋 Hi, I'm Gerald Nathanael!
+Hi, I'm Gerald Nathanael!
 
 🎓 Final year Informatics Engineering student  
 💡 Passionate in Front-end Development, AI, and UX Design  
