@@ -1,5 +1,4 @@
 ## Hey there, I'm Gerald Nathanael! 👋
-![Header](https://github.com/geraldnael/geraldnael/blob/main/assets/header.png)
 
 I'm a Full-Stack Developer and AI Enthusiast from Indonesia. I love building smart, scalable, and impactful web applications. With a strong foundation in software architecture and a deep interest in machine learning and computer vision, I enjoy solving real-world problems with code.
 
