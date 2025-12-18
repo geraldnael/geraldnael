@@ -1,10 +1,11 @@
 ## Hey there, I'm Gerald Nathanael! 👋
 
-I'm a Full-Stack Developer and AI Enthusiast from Indonesia. I love building smart, scalable, and impactful web applications. With a strong foundation in software architecture and a deep interest in machine learning and computer vision, I enjoy solving real-world problems with code.
+I’m a Full-Stack Developer, Pega Developer, and AI Enthusiast from Indonesia, focused on building smart, scalable, and impactful web applications. I have a strong foundation in software architecture and hands-on experience in enterprise application development, machine learning, and computer vision for real-world problem solving.
 
-- 🎓 Final year **Informatics Engineering** student at Institut Teknologi Del
-- 📚 Currently researching **Multi-scale Object Detection with Faster R-CNN & FPN**
-- 🛠 Passionate about AI/ML, frontend-backend integration, and real-time apps
+- 💼 Pega Developer at PT Asuransi Sinarmas
+- 🎓 Graduated in Informatics Engineering from Institut Teknologi Del
+- 📄 Completed research on Multi-scale Object Detection using Faster R-CNN with Feature Pyramid Networks (FPN)
+- 🛠 Skilled in Pega Platform (case management, business rules, integrations), full-stack development, and AI/ML
 
 ---
 
