@@ -2,7 +2,7 @@
 
 I’m a Full-Stack Developer, Pega Developer, and AI Enthusiast from Indonesia, focused on building smart, scalable, and impactful web applications. I have a strong foundation in software architecture and hands-on experience in enterprise application development, machine learning, and computer vision for real-world problem solving.
 
-- 💼 Pega Developer at PT Asuransi Sinarmas
+- 💼 Fullstack Developer at Kementerian Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Republik Indonesia
 - 🎓 Graduated in Informatics Engineering from Institut Teknologi Del
 - 📄 Completed research on Multi-scale Object Detection using Faster R-CNN with Feature Pyramid Networks (FPN)
 - 🛠 Skilled in Pega Platform (case management, business rules, integrations), full-stack development, and AI/ML
